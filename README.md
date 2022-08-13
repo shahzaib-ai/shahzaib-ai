@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahzaib-ai
-- 👀 I’m interested in Web Dev, Data Science, AI, ML
+- 👀 I’m interested in Web Dev, Data Science, AI, ML and Cloud
 - 🌱 I’m currently learning Python
 
 <!---
