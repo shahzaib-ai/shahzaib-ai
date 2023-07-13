@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahzaib-ai
-- 👀 I’m interested in Web Dev, Data Science, AI, ML and Cloud
-- 🌱 I’m currently learning Python and Web Development
+- 👀 I’m interested in Web Dev, Data Science, and Cloud
+- 🌱 I’m currently learning MERN Stack
 
 <!---
 shahzaib-ai/shahzaib-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
