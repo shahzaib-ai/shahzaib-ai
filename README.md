@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahzaib-ai
+- 👋 Hi, I’m Shahzaib
 - 👀 I’m interested in Web Dev, Data Science, and Cloud
 - 🌱 I’m currently learning MERN Stack
 
